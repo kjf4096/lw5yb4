@@ -1,7 +1,7 @@
-# AI-Studio-项目标题
+# 飞桨常规赛：图神经网络入门节点分类 5月第4名方案
 
 ## 项目描述
-简要描述项目
+PGL节点分类
 
 ## 项目结构
 ```
@@ -12,4 +12,4 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-B：此处由项目作者进行撰写使用方式。
+B：我在AI Studio上获得黄金等级，点亮5个徽章，来互关呀~ https://aistudio.baidu.com/aistudio/personalcenter/thirdview/335435
